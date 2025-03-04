@@ -1,4 +1,4 @@
-# Exploring-Advanced-Segmentation-Techniques-for-Myopia-in-Fundus-Images
+# Unveiling Cutting-Edge Segmentation Approaches for Myopic Retinal Analysis in Fundus Images
 
 Fully Supervised Optic Disc Segmentation Results:
 
