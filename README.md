@@ -2,19 +2,19 @@
 
 Fully Supervised Optic Disc Segmentation Results:
 
-![image](https://github.com/user-attachments/assets/40f3dd80-cefd-48be-ab0e-6965e288483d)
+![image](https://github.com/user-attachments/assets/39b27d8a-9628-473f-9b19-15c178f49077)
 
 
 Fully Supervised Retinal Atrophy Segmentation Results:
 
-![image](https://github.com/user-attachments/assets/7ae17199-68f1-468e-ac4b-5ba5ead3e754)
+![image](https://github.com/user-attachments/assets/2c8d2253-00b0-464c-9a09-340f55a10d33)
 
 
 Semi-Supervised Optic Disc Segmentation Results:
 
-![image](https://github.com/user-attachments/assets/2a148c75-ef11-46f3-b181-e9699a5b5880)
+![image](https://github.com/user-attachments/assets/a3494d1b-6574-40ea-84cf-8299a0f52afc)
 
 
 Ablation Studies:
 
-![image](https://github.com/user-attachments/assets/d9a23fff-9a7f-4e82-8a04-9e07cec60b80)
+![image](https://github.com/user-attachments/assets/ab32f577-066a-46b5-9d8d-4d55abd5b452)
